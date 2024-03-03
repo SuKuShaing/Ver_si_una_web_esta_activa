@@ -1,0 +1,1 @@
+Versi.py es la versión que si funciona y vigila que una web esté activa
